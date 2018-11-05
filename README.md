@@ -8,6 +8,7 @@ MaskMaker.py extracts coordinates of rooftops from a JSON file and outputs Maske
 2. PIL (Python Imaging Library) - _pip install Pillow_
 
 ## How to use.
+Download MaskMaker.py
 
 **Synatx:**  
 python **MaskMaker.py** --source \<PATH of JSON file> --output \<PATH for Destination directory.>  
