@@ -11,6 +11,7 @@ MaskMaker.py extracts coordinates of rooftops from a JSON file and outputs Maske
 
 **Synatx:**  
 python **MaskMaker.py** --source \<PATH of JSON file> --output \<PATH for Destination directory.>  
+
 **Default values:**  
 --source - *bounds.json*  
 --output - *./Masks/*  
