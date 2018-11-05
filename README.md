@@ -15,4 +15,5 @@ python **MaskMaker.py** --source \<PATH of JSON file> --output \<PATH for Destin
 **Default values:**  
 --source - *bounds.json*  
 --output - *./Masks/*  
+
 Placing this script in the same directory as the json file will create the masks without supplying any arguments.
